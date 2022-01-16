@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: lightgreen;
+    
+}
+#camera{
+    border: red ;
+    border-width: 5px;
+    border-style: ridge;
+    height:400px ;
+    width:450px ;
+}
+
+ 
